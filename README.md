@@ -1,1 +1,9 @@
-# CodeStates_Section1_Project
+## CodeStates Section1 Project
+
+## Goal of project
+	- 다음 분기에 어떤 게임을 설계해야 할까
+
+## 반드시 들어가야 할 내용
+	- 지역에 따라서 선호하는 게임 장르가 다를까?
+	- 연도별 게임의 트렌드가 있을까?
+	- 출고량이 높은 게임에 대한 분석 및 시각화 프로세스
